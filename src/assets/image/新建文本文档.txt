@@ -1,0 +1,4 @@
+http://www.bootstrapmb.com/item/8838/preview
+
+药品名可以重复，一种药品可以有多个经销商。
+可以把经销商看成店家
